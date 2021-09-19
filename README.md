@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FightFly
-- 👀 I’m interested making, robotics, tinkering, coding, AI...you know fun stuff.  Most of my skills have been learned from doing... and I do a lot of odd things.
+- 👀 I’m interested in making, robotics, tinkering, coding, AI...you know fun stuff.  Most of my skills have been learned from doing... and I do a lot of odd things.
 - 🌱 I’m currently learning C++, Python, and Julia.  But would like to learn other languages.
 - 💞️ I’m looking to collaborate on -- to soon in the journey to be a good collaborator. 
 - 📫 How to reach me?  I might add this later. 
