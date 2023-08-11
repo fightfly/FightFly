@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @FightFly
-- 👀 I’m interested in making, robotics, tinkering, coding, AI...you know fun stuff.  Most of my skills have been learned from doing... and I do a lot of odd things.
-- 🌱 I’m currently learning C++, Python, and Julia.  But would like to learn other languages.
-- 💞️ I’m looking to collaborate on -- to soon in the journey to be a good collaborator. 
-- 📫 How to reach me?  I might add this later. 
+- 👋 Hi, I’m @fightfly
 
+- Thanks for taking the time to read my "about" section.
+- I am somewhere between newbie and not newbie. While I'm in the initial stages of this path, I bring a dedicated mindset and a strong foundation. Open to insights, mentorship, and collaboration as I expand my technical expertise. Committed to continuous learning and development in the tech space.
+- 
 <!---
 FightFly/FightFly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
